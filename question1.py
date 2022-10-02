@@ -1,0 +1,11 @@
+print("hello world") 
+print("This is a pathon program")
+print("what should we do next?")
+age = 23
+print(age*12)
+bill = input("what was the bill total tonight")
+bill=float(bill)
+print(bill+ .1*bill)
+print(bill+ .15*bill)
+print(bill+ .20*bill)
+print(bill+ .25*bill)
